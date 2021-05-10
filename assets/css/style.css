@@ -1,5 +1,21 @@
 /*--- Course Homepage Stylesheet --- */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+
+
 
 body{
-    background-color:palegreen;
+    background-color:#5bc489;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
 }
