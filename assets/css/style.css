@@ -8,7 +8,30 @@ html {
   box-sizing: inherit;
 }
 
+ .container {
+  width: 80vw;
+  margin: 40px auto;
+  max-width: 900px;
+  border: 1px solid #000;
+  padding: 5px;
+  position: center;
+}
 
+  .primary h1 {
+  font-family: "Zen Dots", cursive;
+  font-size: 2.5rem;
+  margin: 20px 0;
+  position: center;
+}
+
+
+  .secondary h2 {
+  font-family: "Zen Dots", cursive;
+  font-size: 2em;
+  /* Shorhand Three Value Top, Left/Right, Bottom*/
+  margin: 20px auto 40px;
+  position: relative;
+}
 
 
 body{
